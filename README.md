@@ -14,4 +14,5 @@ $ edit .github/workflows/CI.yml
 $ git add .
 $ git commit -m"added cpack"
 $ git push origin master
+https://app.travis-ci.com/yarosoon/lab06_hw.svg?token=hyYcvAcPDCCEgDz9FPuX&branch=master
 ```
